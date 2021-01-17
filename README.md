@@ -30,6 +30,6 @@ outputs can be found in the recording folder.
 ## Instructions
 To run the script follow these steps:
 - Move to the directory where you are storing the repository
-- From your terminal call python main.py file_path_to/sample_input.png file_path_to/sample_output.mp3
+- From your terminal call python main.py "file_path_to/sample_input.png" "file_path_to/sample_output.mp3"
   - On line 18 of main.py you can change the accent to your desired IETF tag
  
