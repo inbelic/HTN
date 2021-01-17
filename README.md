@@ -1,6 +1,6 @@
 # Bumped Talk
 
-##Intro
+## Intro
 Welcome to our project for Hack the North 2020!
 The motivation behind our project was to provide a tool for those who have been impacted by visual impairment, either
 adjecently or directly. Hack the North provided us with an opportunity to push ourselves to create a proof of concept for
